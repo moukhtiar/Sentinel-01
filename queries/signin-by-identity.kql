@@ -1,0 +1,3 @@
+SigninLogs
+| summarize SignInCount = count() by UserPrincipalName
+| order by SignInCount desc
