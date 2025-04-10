@@ -12,7 +12,7 @@ This repository contains my hands-on labs and detection projects using Microsoft
 - Connected Azure Activity Logs as data source
 - Ran KQL queries to investigate sign-in patterns
 
-## 🔍 Sample KQL Query
+# Sample KQL Query
 ```kql
 SigninLogs
 | summarize SignInCount = count() by UserPrincipalName
