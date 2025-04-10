@@ -2,7 +2,7 @@
 
 ## Key Learnings
 - Connected Azure Activity Logs
-- Ran KQL to group sign-ins by user
+- Ran KQL to group sign-ins by users
 
 ## Next Steps
 - Add a detection rule
